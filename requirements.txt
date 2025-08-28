@@ -1,7 +1,7 @@
 asgiref==3.9.1
 Django==4.2.23
 django-debug-toolbar==6.0.0
--e git+ssh://git@github.com/PathaniaOO/Php-file.git@c264b276c87517aad14455ba194cb29b11ea0708#egg=django_polls&subdirectory=desktop\djangoproject\django-polls
+-e git+https://github.com/PathaniaOO/Django-Polls.git#egg=django_polls
 djhtml==3.0.9
 setuptools==80.9.0
 sqlparse==0.5.3
